@@ -14,6 +14,7 @@ __pycache__/
 *.png
 # Virtual Environments
 Crop Demand Prediction\Feature reference datasets
+Crop Demand Prediction\Baseline Models\Kurnool\Datasets
 venv/
 .venv/
 env/
