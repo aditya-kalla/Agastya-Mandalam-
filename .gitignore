@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (Crucial for keeping your 8GB datasets off GitHub!)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.sqlite3
+*.jpg
+*.jpeg
+*.png
+# Virtual Environments
+Crop Demand Prediction\Feature reference datasets
+venv/
+.venv/
+env/
+ENV/
+bin/
+include/
+lib/
+
+# IDE and System Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
